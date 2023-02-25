@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5ZDhiNjkyNzBkODUwNDUxZDEwMGUzZWVjMzAxY2ZlOWRjNzNkZCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
+</div>
+
+<div align="center" id="badges">
+  <a href="www.linkedin.com/in/nick-wk-yu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hyperiondev.com/portfolio/107343/">
+    <img src="https://img.shields.io/badge/HyperionDev-green?style=for-the-badge&logo=HyperionDev&logoColor=white" alt="HyperionDev Badge"/>
+  </a>
+</div>
+
+<h1 align="center">Hi 👋  I'm Nick</h1>
 <h3 align="center">A passionate backend developer</h3>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+
+As a former Infrastructure Engineer seeking to transition into a career as a Junior Software Developer, I have completed an intensive software engineering bootcamp in HyperonDev to develop my skills and knowledge in programming. With a strong foundation in systems and infrastructure, I am well-equipped to build reliable and efficient software solutions. 
 
 - 🔭 I’m currently working on [Current project I'm working on](https://github.com/myproject)
 
