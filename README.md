@@ -14,7 +14,9 @@
 <h1 align="center">Hi 👋  I'm Nick</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<img src="https://www.three.co.uk/blog/what-the-heck-is-a-gif/_jcr_content/root/container/container-main-section/column-left/image_copy_copy_copy_608760790.coreimg.gif/1668177050586/cat-gif.gif" width="30"> About Me :
+<img src="https://www.three.co.uk/blog/what-the-heck-is-a-gif/_jcr_content/root/container/container-main-section/column-left/image_copy_copy_copy_608760790.coreimg.gif/1668177050586/cat-gif.gif" width="80"> 
+
+About Me :
 
 As a former Infrastructure Engineer seeking to transition into a career as a Junior Software Developer, I have completed an intensive software engineering bootcamp in HyperonDev to develop my skills and knowledge in programming. With a strong foundation in systems and infrastructure, I am well-equipped to build reliable and efficient software solutions. 
 
@@ -22,11 +24,11 @@ As a former Infrastructure Engineer seeking to transition into a career as a Jun
 
 - 👨‍💻 I’m currently learning **Python, SQL, HTML, CSS**
 
+- 🤝 I’m interesting and looking to collaborate on any Gaming, AI, Machine Learning, Car Autopilot projects 
+
 - ⚡ In my free time, I code and solve problems on [leetcode.com](https://leetcode.com)
 
-- 🤝 I’m looking to collaborate on [Current project I'm looking to collaborate on](https://github.com/myproject)
-
-- 💻 All of my projects are available at [https://github.com/myproject](https://github.com/myproject)
+- 💻 All of my projects are available at [https://github.com/myproject](https://github.com/nickwai?tab=repositories)
 
 - 🍔 Fun fact **Programming can be fun, and so can cryptography; however, they should not be combined.**
 
@@ -34,7 +36,7 @@ As a former Infrastructure Engineer seeking to transition into a career as a Jun
 
 <h3 align="left">Connect with me:</h3
 <p align="left">
-<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nick-wk-yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
