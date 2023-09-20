@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Hi 👋  I'm Nick</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate DevOps / Infrastructure Administrator</h3>
 
 <img src="https://www.three.co.uk/blog/what-the-heck-is-a-gif/_jcr_content/root/container/container-main-section/column-left/image_copy_copy_copy_608760790.coreimg.gif/1668177050586/cat-gif.gif" width="80"> 
 
