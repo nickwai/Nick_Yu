@@ -20,7 +20,7 @@ About Me :
 
 As a former Infrastructure Engineer seeking to transition into a career as a Junior Software Developer, I have completed an intensive software engineering bootcamp in HyperonDev to develop my skills and knowledge in programming. With a strong foundation in systems and infrastructure, I am well-equipped to build reliable and efficient software solutions. 
 
-- 👀 I'm seeking for a Junior Python Developer, Junior Testing Engineer and Junior DevOps role
+- 👀 I'm seeking for a Infrastructure Engineer role and Junior DevOps role
 
 - 👨‍💻 I’m currently learning **Python, SQL, HTML, CSS**
 
@@ -32,7 +32,7 @@ As a former Infrastructure Engineer seeking to transition into a career as a Jun
 
 - 🍔 Fun fact **Programming can be fun, and so can cryptography; however, they should not be combined.**
 
-- 📄 Know about my experiences [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nick-wk-yu)
+- 📄 Know about my experiences [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nick-wk-yu)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/nick-wk-yu" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40"/></a>
